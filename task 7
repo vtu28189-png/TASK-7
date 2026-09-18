@@ -19,3 +19,15 @@ public class Main {
         sc.close();
     }
 }
+INPUT:
+5
+JAVA
+PYTHON
+AI
+PYTHON
+JAVA
+OUTPUT:
+JAVA2
+AI1
+PYTHON2
+...Program finished with exit code 0
